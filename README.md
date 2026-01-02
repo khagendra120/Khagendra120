@@ -7,7 +7,7 @@
 
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Quality+Assurance+%7C%7C++Accountant+%7C%7C+Designer%7C" alt="Typing SVG" /></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Quality+Assurance%7C%7CAccountant" alt="Typing SVG" /></a>
 </p>
 <br>
 
