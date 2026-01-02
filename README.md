@@ -1,4 +1,4 @@
-# 💫 About khagendra:
+## <img src = "assets/about_me.gif" width = 50px> **About me**
 🔭 I’m currently working at Pratham IT System<br>💬 Ask me about SQL Query<br> 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 # 📊 GitHub Stats:
