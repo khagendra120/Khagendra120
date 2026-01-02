@@ -7,5 +7,6 @@
 
 
 <p align="center">
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Software%20Engineer%20|%20+DBA%20|%20+Researcher">
 </p>
+<br>
